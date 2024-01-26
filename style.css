@@ -1,0 +1,40 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url(/7233949.jpg)
+   
+}
+
+#titulo {
+    padding: 50px 0px 0px 0px;
+    color: #7860d1;
+    text-shadow:1px 1px 1px black;
+}
+
+#container {
+    /* background-color: rgb(56, 19, 141) ; */
+    padding: 3px 3px 3px 3px;
+    box-shadow: 50px 500px 50px rgba(255, 0, 0, 0.1);
+
+}
+.enunciado{
+    font-family: fantasy;
+}
+#numeroInput{
+    margin-top: 2%;
+}
+
+#boton{
+    background-color: rgba(123, 176, 237, 0.683) ;
+    font-family: cursive;
+}
+
+#output{
+    margin-top: 2%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
